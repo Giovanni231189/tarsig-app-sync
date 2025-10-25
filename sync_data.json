@@ -1,5 +1,5 @@
 {
-  "version": 1761405896212,
+  "version": 1761410317770,
   "catalog": {
     "Azienda 1 - Alimentari": [
       {
@@ -65,6 +65,11 @@
       "password": "1234",
       "isAdmin": true,
       "needsPasswordChange": false
+    },
+    "Elisa": {
+      "password": "1234",
+      "isAdmin": false,
+      "needsPasswordChange": true
     }
   },
   "companies": [
