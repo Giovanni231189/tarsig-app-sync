@@ -1,0 +1,62 @@
+{
+  "version": 1761400867920,
+  "catalog": {
+    "Azienda 1 - Alimentari": [
+      {
+        "code": "A-ART",
+        "name": "Carciofi grigliati 400g",
+        "price": 3.2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Grilled_artichokes.jpg"
+      },
+      {
+        "code": "A-FUN",
+        "name": "Funghi champignon 200g",
+        "price": 2.6,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/ChampignonMushroom.jpg"
+      },
+      {
+        "code": "A-MAI",
+        "name": "Mais dolce 340g",
+        "price": 1.5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Canned_sweetcorn.jpg"
+      },
+      {
+        "code": "A-OLV",
+        "name": "Olive verdi 300g",
+        "price": 2.1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Green_olives.jpg"
+      }
+    ],
+    "Azienda 2 - Non Alimentari": [
+      {
+        "code": "T-RED",
+        "name": "Tovaglia Rossa 150x150",
+        "price": 12.5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tablecloth_red.jpg"
+      },
+      {
+        "code": "T-WHT",
+        "name": "Tovaglia Bianca 150x150",
+        "price": 13.0,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tablecloth_white.jpg"
+      },
+      {
+        "code": "CARTA",
+        "name": "Bobina di carta",
+        "price": 2.0,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paper_roll.jpg"
+      }
+    ]
+  },
+  "users": {
+    "Giovanni_admin": {
+      "password": "1234",
+      "isAdmin": true,
+      "needsPasswordChange": false
+    }
+  },
+  "companies": [
+    "Azienda 1 - Alimentari",
+    "Azienda 2 - Non Alimentari"
+  ]
+}
