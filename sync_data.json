@@ -1,5 +1,5 @@
 {
-  "version": 1761400867920,
+  "version": 1761403528845,
   "catalog": {
     "Azienda 1 - Alimentari": [
       {
@@ -37,19 +37,19 @@
       {
         "code": "T-WHT",
         "name": "Tovaglia Bianca 150x150",
-        "price": 13.0,
+        "price": 13,
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tablecloth_white.jpg"
       },
       {
         "code": "CARTA",
         "name": "Bobina di carta",
-        "price": 2.0,
+        "price": 2,
         "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paper_roll.jpg"
       }
     ]
   },
   "users": {
-    "Giovanni_admin": {
+    "admin": {
       "password": "1234",
       "isAdmin": true,
       "needsPasswordChange": false
