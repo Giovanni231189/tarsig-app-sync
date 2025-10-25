@@ -1,5 +1,5 @@
 {
-  "version": 1761403528845,
+  "version": 1761405896212,
   "catalog": {
     "Azienda 1 - Alimentari": [
       {
@@ -25,6 +25,18 @@
         "name": "Olive verdi 300g",
         "price": 2.1,
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Green_olives.jpg"
+      },
+      {
+        "code": "aaaaa",
+        "name": "aaaa",
+        "price": 12,
+        "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjZGRkZGRkIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiBmb250LXNpemU9IjE0IiBmaWxsPSIjNjY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5OL0E8L3RleHQ+PC9zdmc+"
+      },
+      {
+        "code": "fdsfdsfg",
+        "name": "fdsaf",
+        "price": 22,
+        "img": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiBmaWxsPSIjZGRkZGRkIi8+PHRleHQgeD0iNDAiIHk9IjQ1IiBmb250LXNpemU9IjE0IiBmaWxsPSIjNjY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5OL0E8L3RleHQ+PC9zdmc+"
       }
     ],
     "Azienda 2 - Non Alimentari": [
