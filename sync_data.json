@@ -1,5 +1,5 @@
 {
-  "version": 1761410317770,
+  "version": 1761410512056,
   "catalog": {
     "Azienda 1 - Alimentari": [
       {
@@ -74,6 +74,7 @@
   },
   "companies": [
     "Azienda 1 - Alimentari",
-    "Azienda 2 - Non Alimentari"
+    "Azienda 2 - Non Alimentari",
+    "prova"
   ]
 }
